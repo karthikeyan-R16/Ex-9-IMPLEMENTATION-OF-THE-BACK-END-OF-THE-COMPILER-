@@ -1,16 +1,23 @@
-# Ex-9-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
-IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :03.04.2024
-# Aim :
+# Ex. No : 9	
+# IMPLEMENTATION OF THE BACK END OF THE COMPILER 
+## Register Number : 212222240045
+## Date : 03.04.2024
+
+## AIM   
 To write a program to implement the back end of the compiler.
-# ALGORITHM
-1. Start the program.
-2. Get the three variables from statements and stored in the text file k.txt.
-3. Compile the program and give the path of the source file.
-4. Execute the program.
-5. Target code for the given statement is produced.
-6. Stop the program.
-# PROGRAM
+
+## ALGORITHM
+1.	Start the program.
+2.	Get the three variables from statements and stored in the text file k.txt.
+3.	Compile the program and give the path of the source file.
+4.	Execute the program.
+5.	Target code for the given statement is produced.
+6.	Stop the program.
+
+## PROGRAM
+
+Program: program.c file 
+
 ```
 #include <stdio.h>
 #include <ctype.h>
@@ -54,9 +61,12 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT
-![image](https://github.com/karthikeyan-R16/Ex-9-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-/assets/119421232/1f04f924-1ff1-431d-96c7-ba3c869bec53)
 
-# Result
+
+## OUTPUT 
+
+![image](https://github.com/HamsiniKannan/19CS409-Compiler-Design-Lab/assets/119393929/125bdd1b-d3b3-449a-b90d-966c3f2a2378)
+
+
+## RESULT
 The back end of the compiler is implemented successfully, and the output is verified.
-
